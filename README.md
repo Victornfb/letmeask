@@ -1,12 +1,20 @@
 <p align="center">
-  <img alt="Letmeask" src="./src/assets/images/logo.svg" width="160px">
+  <a href="https://letmeask-32b27.web.app/">
+    <img alt="Letmeask" src="./src/assets/images/logo.svg" width="160px">
+  </a>
 </p>
 
 <h1 align="center">
+  <a href="https://letmeask-32b27.web.app/">
     <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/3a34d644047e0ff7f4389edfb2d39ceda62fd8f7/.github/cover.svg" />
+  </a>
 </h1>
 
 <br>
+
+## 🔗 Acessar
+
+[Letmeask - Projeto](https://letmeask-32b27.web.app/)
 
 ## 🧪 Tecnologias
 
